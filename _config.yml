@@ -22,8 +22,8 @@ url: https://marine-predators-group.github.io # the base hostname & protocol for
 author:
   name: Aidan Cox
 #  twitter: braunianmotion
-#  picture: /images/profile.jpeg
-github_username: camrinbraun
+  picture: /images/headers/profile.jpeg
+github_username: aidancox12
 logo:  # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
