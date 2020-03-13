@@ -17,7 +17,7 @@ lang: en-US
 title: Aidan's Journal
 email: aidan12@uw.edu
 description: Marine Predators Group - University of Washington
-baseurl: /aidans_journal # the optional subpath of your site, e.g. "/blog"
+baseurl: /cams-nb # the optional subpath of your site, e.g. "/blog"
 url: https://marine-predators-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Aidan Cox
