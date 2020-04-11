@@ -31,7 +31,7 @@ ggplot(data = SA, aes(x = Month, y = Hours/Obs)) +
   ylab("Surface Hours per Day") +
   theme_classic()
 ```
-![Sub-Adult Surface use across months]https://github.com/marine-predators-group/Aidans_Journal/blob/master/images/SASurfMonth.pdf?raw=true)
+![Sub-Adult Surface use across months](https://github.com/marine-predators-group/Aidans_Journal/blob/master/images/SASurfMonth.pdf?raw=true)
 
 [c] Adult
 ```r
@@ -41,7 +41,7 @@ ggplot(data = A3, aes(x = Month, y = (Minutes/60)/Obs)) +
   ylab("Surface Hours per Day") +
   theme_classic()
 ```
-![Adult Surface use across months]https://github.com/marine-predators-group/Aidans_Journal/blob/master/images/SurfMonth.pdf?raw=true)
+![Adult Surface use across months](https://github.com/marine-predators-group/Aidans_Journal/blob/master/images/SurfMonth.pdf?raw=true)
 
 ---
 ### Location Track with Seasonal Aesthetic Mapping
